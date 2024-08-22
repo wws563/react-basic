@@ -21,4 +21,5 @@ module.exports = {
     project: ['./tsconfig.json'],
     tsconfigRootDir: __dirname,
   },
+  include: ['src/**/*.ts', 'src/**/*.tsx'],
 }

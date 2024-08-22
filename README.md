@@ -39,6 +39,9 @@ export default {
 - typescript 5.4.5
 
 
-## 2. 配置
+## 2. 三方库
+- antd 5.15.1
 
 ## 3. 使用
+- npm run dev
+- npm run build
